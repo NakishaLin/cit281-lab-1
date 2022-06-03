@@ -5,6 +5,14 @@ You can use the [editor on GitHub](https://github.com/NakishaLin/cit281-lab-1/ed
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 This is lab 1 
+Lab goals and outcomes:
+
+Part 1: Install and setup your personal computer with the software tools required for this course
+Part 2: Practice using software tools
+Part 3: Practice terminal or shell commands
+Part 4: Practice keyboard shortcuts
+Part 5: Create your first Node.js server-side JavaScript file
+
 
 - Bulleted
 - List
