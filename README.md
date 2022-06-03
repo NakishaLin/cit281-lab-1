@@ -8,6 +8,6 @@ We get to practice with Chrome and Visual Studio Code. We have also get to pract
 This lab also has us get to practice some shortcuts that can make our future project further effective.
 
 
-<img src="chrome.png" width= 200px height= 200px>
+<img src="chrome.png" width= 200px height= 200px>  <img src="vscode.png" width= 200px height= 200px>
 
-<img src="vscode.png" width= 200px height= 200px>
+
