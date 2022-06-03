@@ -12,3 +12,5 @@ Part 3: Practice terminal or shell commands
 Part 4: Practice keyboard shortcuts
 
 Part 5: Create your first Node.js server-side JavaScript file
+
+<img src="chrome.png">
