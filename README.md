@@ -1,16 +1,13 @@
 # cit281-lab-1
 Lab 1
 
-This is lab 1 Lab goals and outcomes:
+This lab is our first lab of the term. The objective about is lab is all about setting up our laptop and the software that we are going to use. 
 
-Part 1: Install and setup your personal computer with the software tools required for this course
+We get to practice with Chrome and Visual Studio Code. We have also get to practice with terminal and shell commands.
 
-Part 2: Practice using software tools
+This lab also has us get to practice some shortcuts that can make our future project further effective.
 
-Part 3: Practice terminal or shell commands
-
-Part 4: Practice keyboard shortcuts
-
-Part 5: Create your first Node.js server-side JavaScript file
 
 <img src="chrome.png" width= 200px height= 200px>
+
+<img src="vscode.png" width= 200px height= 200px>
