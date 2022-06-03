@@ -13,4 +13,4 @@ Part 4: Practice keyboard shortcuts
 
 Part 5: Create your first Node.js server-side JavaScript file
 
-<img src="chrome.png">
+<img src="chrome.png width = 200px">
